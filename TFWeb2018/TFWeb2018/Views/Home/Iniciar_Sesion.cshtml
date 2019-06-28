@@ -1,0 +1,45 @@
+﻿@model TFWeb2018.Models.Persona
+@{
+    ViewBag.Title = "Iniciar_Sesion";
+}
+
+<h2>Iniciar_Sesion</h2>
+
+@using (Html.BeginForm(new { enctype = "multipart/form-data" }))
+{
+
+<div style="text-align:right">
+
+    <table height="160" width="300">
+
+        <tr>
+            <td>
+                Usuario :
+            </td>
+
+            <td typeof="password">
+                @Html.TextBoxFor(m => m.Username)
+                @Html.ValidationMessageFor(m => m.Username)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Contraseña :
+            </td>
+            <td>
+                @Html.TextBoxFor(m => m.Password)
+                @Html.ValidationMessageFor(m => m.Password)
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                <input type="submit" value="Iniciar Sesion" class="btn btn-success" />
+            </td>
+        </tr>
+
+        @Html.ActionLink("Crear Cuenta", "crear_cuenta")
+    </table>   
+</div>
+    
+}

@@ -1,0 +1,56 @@
+﻿@model TFWeb2018.Models.Persona
+
+@{
+    ViewBag.Title = "crear_cuenta";
+}
+
+<h2>crear_cuenta</h2>
+
+<br />
+@using (Html.BeginForm(new { enctype = "multipart/form-data" }))
+{
+    <div style="text-align:right">
+        <table height="160" width="300">
+            <tr>
+                <td>
+                    Nombre :
+                </td>
+                <td>
+                    @Html.TextBoxFor(m => m.Nombre)
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Edad :
+                </td>
+                <td>
+                    @Html.TextBoxFor(m => m.Edad)
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Correo :
+                </td>
+                <td>
+                    @Html.TextBoxFor(m => m.Correo)
+                </td>
+            </tr>
+            <tr>
+                <td>Username :</td>
+                <td>@Html.TextBoxFor(m => m.Username)</td>
+            </tr>
+            <tr>
+            <tr>
+                <td>Contraseña :</td>
+                <td>@Html.TextBoxFor(m => m.Password)</td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="submit" value="Agregar" class="btn btn-success" />
+                </td>
+            </tr>
+
+        </table>
+    </div>
+}
+

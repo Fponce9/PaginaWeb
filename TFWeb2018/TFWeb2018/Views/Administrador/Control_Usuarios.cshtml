@@ -1,0 +1,41 @@
+﻿@model IEnumerable<TFWeb2018.Models.Persona>
+
+@{
+    ViewBag.Title = "Usuarios";
+}
+
+<h2>Usuarios</h2>
+<h3>En esta pagina podra eliminar a los usuarios que usted desee</h3>
+
+<table style="width:100%" class="table table-dark">
+    <tr>
+        <th>Nombre&nbsp;</th>
+        <th>Edad&nbsp;</th>
+        <th>Correo&nbsp;</th>
+        <th>Usuario</th>
+        <th>Eliminar</th>
+    </tr>
+
+    @{
+        foreach (var item in Model)
+        {
+            <tr>
+
+                <td>
+                    @item.Nombre
+                </td>
+                <td>
+                    @item.Edad
+                </td>
+                <td>
+                    @item.Correo
+                </td>
+                <td>@item.Username</td>
+                <td>@Html.ActionLink("Eliminar", "Delete_User", new { idPersona = item.Id_Persona })</td>
+                <th> &nbsp; </th>
+            </tr>
+        }
+    }
+
+</table>
+

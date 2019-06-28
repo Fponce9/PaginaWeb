@@ -1,0 +1,32 @@
+﻿@model IEnumerable<TFWeb2018.Models.Juego>
+
+@{
+    ViewBag.Title = "Usuario Index";
+}
+
+        <h1>Lista de Juegos</h1>
+        <div class="row">
+            
+            @{
+                foreach (var item in Model)
+                {
+                    <div class="col-md-4">
+                        <img src="@item.Foto" alt="Imagen" height="190" width="200" />
+
+                        <h2>@item.Nombre</h2>
+
+                        <h3>
+                            S/. @item.Precio
+                        </h3>
+                        <p>
+                            @item.Descripcion
+                        </p>
+                        
+                        <button class="btn btn-warning">  
+                            <i class="glyphicon-plus"></i>
+                            @Html.ActionLink("Agregar al Carrito", "Carrito", new { idjuego = item.Id_Juego, costo = item.Precio, @class = "Link" })                                                       
+                        </button>                        
+                    </div>
+                    }
+            }
+        </div>

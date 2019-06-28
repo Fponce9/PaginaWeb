@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - SoftGames</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="navbar navbar-fixed-top" style="background-color: #ff8f00;">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("SoftGames", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                @{
+                    
+                    if ((int)(Session["Sesion"]) == 0)
+                    {<ul class="nav navbar-nav">
+                        <li>@Html.ActionLink("Tienda", "Index", "Usuario")</li>
+                        <li>@Html.ActionLink("Iniciar Sesion", "Iniciar_Sesion", "Home")
+                     </ul>
+                    }
+
+                    if ((int)(Session["Sesion"]) == 1)
+                    {<ul class="nav navbar-nav">
+                            <li>@Html.ActionLink("Tienda", "Index", "Usuario")</li>
+                            <li>@Html.ActionLink("Carrito", "Carro_Ver", "Usuario")</li>
+                            <li>@Html.ActionLink("Acerca de", "About", "Home")</li>
+                            <li>@Html.ActionLink("Contacto", "Contact", "Home")</li>
+                        </ul>
+                    }
+                    if((int)(Session["Sesion"]) == 2)
+                    {
+                        <ul class="nav navbar-nav">
+                            <li>@Html.ActionLink("Juegos", "Juegos", "Administrador")</li>
+                            <li>@Html.ActionLink("Usuarios", "Control_Usuarios", "Administrador")</li>
+                            <li>@Html.ActionLink("Acerca de", "About", "Home")</li>
+                            <li>@Html.ActionLink("Contacto", "Contact", "Home")</li>
+                        </ul>
+                    }
+
+                }
+
+            </div>  
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - SoftGames was developed by Fernando Ponce</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

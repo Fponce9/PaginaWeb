@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="43755b8b995a45de9e50d9d799226e1a" Name="Diagram1">
+        <EntityTypeShape EntityType="TParcialModel.Administrador" Width="1.5" PointX="3" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="TParcialModel.Detalle_Venta" Width="1.5" PointX="5.25" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="TParcialModel.Juego" Width="1.5" PointX="3" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="TParcialModel.Persona" Width="1.5" PointX="0.75" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="TParcialModel.sysdiagrams" Width="1.5" PointX="5.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="TParcialModel.Usuario" Width="1.5" PointX="3" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="TParcialModel.Venta" Width="1.5" PointX="3" PointY="6.375" IsExpanded="true" />
+        <AssociationConnector Association="TParcialModel.FK_Admin_Persona" ManuallyRouted="false" />
+        <AssociationConnector Association="TParcialModel.FK_Detalle_Venta_Juego" ManuallyRouted="false" />
+        <AssociationConnector Association="TParcialModel.FK_Detalle_Venta_Venta" ManuallyRouted="false" />
+        <AssociationConnector Association="TParcialModel.FK_Usuario_Persona" ManuallyRouted="false" />
+        <AssociationConnector Association="TParcialModel.FK_Venta_Persona" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

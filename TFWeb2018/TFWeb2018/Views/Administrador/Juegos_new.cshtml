@@ -1,0 +1,41 @@
+﻿@model TFWeb2018.Models.Juego
+
+@{
+    ViewBag.Title = "Juegos_new";
+}
+
+<h2>Agregar Juegos</h2>
+<br />
+@using (Html.BeginForm(new { enctype = "multipart/form-data" }))
+{    
+    <div style="text-align:right">
+        <table height="160" width="300">
+            <tr>
+                <td>
+                    Nombre :
+                </td>
+                <td>
+                    @Html.TextBoxFor(m => m.Nombre)
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Precio :
+                </td>
+                <td>
+                    @Html.TextBoxFor(m => m.Precio)
+                </td>
+            </tr>
+            <tr>
+                <td>Descripcion :</td>
+                <td class="">@Html.TextBoxFor(m => m.Descripcion)</td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="submit" value="Agregar" class="btn btn-success" />
+                </td>
+            </tr>
+            
+        </table>
+    </div>
+}

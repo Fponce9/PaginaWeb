@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="0b75da10-d034-490a-8d58-320fcbd683be" name="diego@DESKTOP-4HG8BKJ 2019-06-20 14:24:41" runUser="DESKTOP-4HG8BKJ\diego" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="bfd79339-43b1-429e-85b6-7a3d2ae74768">
+    <Description>Esta es la configuración de pruebas predeterminada para una serie de pruebas local.</Description>
+    <Execution hostProcessPlatform="MSIL">
+      <TestTypeSpecific>
+        <WebTestRunConfiguration testTypeId="4e7599fa-5ecb-43e9-a887-cd63cf72d207">
+          <Browser name="Chrome 2" MaxConnections="6">
+            <Headers>
+              <Header name="User-Agent" value="Mozilla/5.0 (Windows; U; Windows NT 5.1;) AppleWebKit/530.1 (KHTML, like Gecko) Chrome/2.0.169.1 Safari/530.1" />
+              <Header name="Accept" value="*/*" />
+              <Header name="Accept-Language" value="{{$IEAcceptLanguage}}" />
+              <Header name="Accept-Encoding" value="gzip,deflate" />
+              <Header name="Accept-Charset" value="ISO-8859-1,*,utf-8" />
+            </Headers>
+          </Browser>
+        </WebTestRunConfiguration>
+      </TestTypeSpecific>
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="diego_DESKTOP-4HG8BKJ 2019-06-20 14_24_41" />
+    <Properties>
+      <Property name="TestSettingsUIType" value="UnitTest" />
+    </Properties>
+  </TestSettings>
+  <Times creation="2019-06-20T14:24:41.1495138-05:00" queuing="2019-06-20T14:24:41.3594341-05:00" start="2019-06-20T14:24:41.4093007-05:00" finish="2019-06-20T14:24:41.6464208-05:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <WebTest name="WebTest1" storage="c:\users\diego\desktop\tfweb2018\webandloadtestproject1\webtest1.webtest" id="514c8a11-13c0-48c6-a74a-3ab7ad743bb0" persistedWebTest="77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/Pg0KPFdlYlRlc3QgTmFtZT0iV2ViVGVzdDEiIElkPSI1MTRjOGExMS0xM2MwLTQ4YzYtYTc0YS0zYWI3YWQ3NDNiYjAiIE93bmVyPSIiIFByaW9yaXR5PSIyMTQ3NDgzNjQ3IiBFbmFibGVkPSJUcnVlIiBDc3NQcm9qZWN0U3RydWN0dXJlPSIiIENzc0l0ZXJhdGlvbj0iIiBUaW1lb3V0PSIwIiBXb3JrSXRlbUlkcz0iIiB4bWxucz0iaHR0cDovL21pY3Jvc29mdC5jb20vc2NoZW1hcy9WaXN1YWxTdHVkaW8vVGVhbVRlc3QvMjAxMCIgRGVzY3JpcHRpb249IiIgQ3JlZGVudGlhbFVzZXJOYW1lPSIiIENyZWRlbnRpYWxQYXNzd29yZD0iIiBQcmVBdXRoZW50aWNhdGU9IlRydWUiIFByb3h5PSJkZWZhdWx0IiBTdG9wT25FcnJvcj0iRmFsc2UiIFJlY29yZGVkUmVzdWx0RmlsZT0iV2ViVGVzdDEuYjQ3ZmRhN2ItMGQzZS00ZWNlLWE5MmUtMGNhMTBkOThiYjZhLnJlYy53ZWJ0ZXN0cmVzdWx0IiBSZXN1bHRzTG9jYWxlPSIiIC8+">
+      <Execution id="551d03b9-f2bc-4433-93b7-44dcb0906493" />
+    </WebTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Resultados que no están en la lista" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Todos los resultados cargados" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry isTransparent="false" testId="514c8a11-13c0-48c6-a74a-3ab7ad743bb0" executionId="551d03b9-f2bc-4433-93b7-44dcb0906493" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <WebTestResult executionId="551d03b9-f2bc-4433-93b7-44dcb0906493" testId="514c8a11-13c0-48c6-a74a-3ab7ad743bb0" testName="WebTest1" computerName="DESKTOP-4HG8BKJ" duration="00:00:00.0072669" startTime="2019-06-20T14:24:41.5310170-05:00" endTime="2019-06-20T14:24:41.6175365-05:00" testType="4e7599fa-5ecb-43e9-a887-cd63cf72d207" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="551d03b9-f2bc-4433-93b7-44dcb0906493">
+      <ResultFiles>
+        <ResultFile path="WebTest1.webtestResult" />
+      </ResultFiles>
+      <TestSettings name="Local" id="bfd79339-43b1-429e-85b6-7a3d2ae74768">
+        <Description>Esta es la configuración de pruebas predeterminada para una serie de pruebas local.</Description>
+        <Execution hostProcessPlatform="MSIL">
+          <TestTypeSpecific>
+            <WebTestRunConfiguration testTypeId="4e7599fa-5ecb-43e9-a887-cd63cf72d207">
+              <Browser name="Chrome 2" MaxConnections="6">
+                <Headers>
+                  <Header name="User-Agent" value="Mozilla/5.0 (Windows; U; Windows NT 5.1;) AppleWebKit/530.1 (KHTML, like Gecko) Chrome/2.0.169.1 Safari/530.1" />
+                  <Header name="Accept" value="*/*" />
+                  <Header name="Accept-Language" value="{{$IEAcceptLanguage}}" />
+                  <Header name="Accept-Encoding" value="gzip,deflate" />
+                  <Header name="Accept-Charset" value="ISO-8859-1,*,utf-8" />
+                </Headers>
+              </Browser>
+            </WebTestRunConfiguration>
+          </TestTypeSpecific>
+          <AgentRule name="Execution Agents">
+          </AgentRule>
+        </Execution>
+        <Deployment runDeploymentRoot="diego_DESKTOP-4HG8BKJ 2019-06-20 14_24_41" />
+        <Properties>
+          <Property name="TestSettingsUIType" value="UnitTest" />
+        </Properties>
+      </TestSettings>
+      <WebTestResultFilePath>diego_DESKTOP-4HG8BKJ 2019-06-20 14_24_41\In\551d03b9-f2bc-4433-93b7-44dcb0906493\WebTest1.webtestResult</WebTestResultFilePath>
+    </WebTestResult>
+  </Results>
+</TestRun>

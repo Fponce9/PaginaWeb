@@ -1,0 +1,43 @@
+﻿@model IEnumerable<TFWeb2018.Models.Juego>
+
+@{
+    ViewBag.Title = "Juegos";
+}
+
+<h2>Juegos</h2>
+<h3>Agregar y Elimina los juegos de tu tienda en esta seccion</h3>
+<br />
+<div class="row">
+    @{
+        foreach (var item in Model)
+        {
+            <div class="col-md-4">
+                <img src="@item.Foto" alt="Imagen" height="190" width="200" />
+
+                <h2>@item.Nombre</h2>
+
+                <h3>
+                    S/. @item.Precio
+                </h3>
+                <p>
+                    @item.Descripcion
+                </p>
+
+                <button class="btn btn-warning">
+                    @Html.ActionLink("Eliminar", "Delete", new { id = item.Id_Juego })
+                </button>
+                <br />
+            </div>
+        }
+
+    }
+
+</div>
+<br />
+<button class="btn btn-success">
+    @Html.ActionLink("Agregar Juegos", "Juegos_new")
+</button>
+
+
+
+

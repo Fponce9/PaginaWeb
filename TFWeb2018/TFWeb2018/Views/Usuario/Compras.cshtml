@@ -1,0 +1,33 @@
+﻿@model IEnumerable<TFWeb2018.Models.Juego>
+@{
+    ViewBag.Title = "Compras";
+}
+
+<h2>Compras Realizadas</h2>
+
+<table style="width:100%" class="table table-dark">
+    <tr>
+        <th>Nombre</th>
+        <th>Importe</th>
+    </tr>
+
+    @{
+        foreach (var item in Model)
+        {
+            <tr>
+
+                <td>
+                    @item.Nombre
+                </td>
+                <td>
+                    @item.Precio
+                </td>                       
+                <td>
+                    @item.Foto
+                </td>
+                <th> &nbsp; </th>
+            </tr>
+        }
+    }
+
+</table>

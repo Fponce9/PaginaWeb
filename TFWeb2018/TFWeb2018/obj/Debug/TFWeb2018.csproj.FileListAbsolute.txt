@@ -1,0 +1,204 @@
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\ApplicationInsights.config
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\TFWeb2018.dll.config
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\TFWeb2018.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\TFWeb2018.pdb
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\csc.exe
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\csc.exe.config
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\csc.rsp
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\csi.exe
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\csi.exe.config
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\csi.rsp
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\System.AppContext.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\System.Console.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\System.IO.Compression.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\System.Security.Claims.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\System.ValueTuple.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\vbc.exe
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\vbc.exe.config
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\vbc.rsp
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\Antlr3.Runtime.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\EntityFramework.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\EntityFramework.SqlServer.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\Microsoft.AI.Web.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\Newtonsoft.Json.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\System.Web.Helpers.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\System.Web.Mvc.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\System.Web.Optimization.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\System.Web.Razor.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\System.Web.WebPages.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\System.Web.WebPages.Razor.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\WebGrease.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\EntityFramework.xml
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\EntityFramework.SqlServer.xml
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\System.Web.Helpers.xml
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\System.Web.Mvc.xml
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\System.Web.Optimization.xml
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\System.Web.Razor.xml
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\System.Web.WebPages.xml
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\System.Web.WebPages.Razor.xml
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\Newtonsoft.Json.xml
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\Antlr3.Runtime.pdb
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\Microsoft.AI.Web.xml
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\es\System.Web.Razor.resources.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\obj\Debug\TFWeb2018.csprojAssemblyReference.cache
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\obj\Debug\TFWeb2018.csproj.CoreCompileInputs.cache
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\obj\Debug\TFWeb2018.csproj.CopyComplete
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\obj\Debug\TFWeb2018.dll
+C:\Users\Fponce\Desktop\Aplicaciones Web\TFWeb2018\TFWeb2018\obj\Debug\TFWeb2018.pdb
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\obj\Debug\TFWeb2018.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\obj\Debug\TFWeb2018.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\obj\Debug\TFWeb2018.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\obj\Debug\TFWeb2018.pdb
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\ApplicationInsights.config
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\TFWeb2018.dll.config
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\TFWeb2018.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\TFWeb2018.pdb
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\csc.exe
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\csc.exe.config
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\csc.rsp
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\csi.exe
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\csi.exe.config
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\csi.rsp
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\System.AppContext.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\System.Console.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\System.IO.Compression.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\System.IO.Pipes.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\System.Security.Claims.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\System.ValueTuple.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\System.Xml.XPath.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\vbc.exe
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\vbc.exe.config
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\vbc.rsp
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\VBCSCompiler.exe
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\Antlr3.Runtime.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\EntityFramework.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\EntityFramework.SqlServer.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\Microsoft.AI.Web.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\Microsoft.ApplicationInsights.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\Newtonsoft.Json.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\System.Web.Helpers.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\System.Web.Mvc.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\System.Web.Optimization.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\System.Web.Razor.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\System.Web.WebPages.Deployment.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\System.Web.WebPages.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\System.Web.WebPages.Razor.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\WebGrease.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\EntityFramework.xml
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\EntityFramework.SqlServer.xml
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\System.Web.Helpers.xml
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\System.Web.Mvc.xml
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\System.Web.Optimization.xml
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\System.Web.Razor.xml
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\System.Web.WebPages.xml
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\System.Web.WebPages.Deployment.xml
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\System.Web.WebPages.Razor.xml
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\Newtonsoft.Json.xml
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\Antlr3.Runtime.pdb
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\Microsoft.AI.Web.xml
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\es\System.Web.Helpers.resources.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\es\System.Web.Mvc.resources.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\es\System.Web.Optimization.resources.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\es\System.Web.Razor.resources.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\es\System.Web.WebPages.resources.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\diego\Desktop\TFWeb2018\TFWeb2018\obj\Debug\TFWeb2018.csproj.CopyComplete

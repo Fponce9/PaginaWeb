@@ -1,0 +1,41 @@
+﻿@model IEnumerable<TFWeb2018.Models.Juego>
+
+@{
+    ViewBag.Title = "Carrito";
+}
+
+<h1>Carrito</h1>
+
+<table style="width:100%" class="table table-dark">
+    <tr>
+        <th>Nombre&nbsp;</th>
+        <th>Precio&nbsp;</th>
+        <th>Descripcion&nbsp;</th>
+    </tr>
+
+    @{
+        foreach (var item in Model)
+        {
+            <tr>
+
+                <td>
+                    @item.Nombre
+                </td>
+                <td>
+                    @item.Precio
+                </td>
+                <td>
+                    @item.Descripcion
+                </td>
+                <td>@Html.ActionLink("Eliminar", "Delete", new { idjuego = item.Id_Juego, idventas = (int)(Session["idCompra"]) })</td>
+                <th> &nbsp; </th>
+            </tr>
+        }
+        
+    }
+</table>
+<button class="btn btn-success">@Html.ActionLink("Realizar Compra","Compras")</button>
+
+
+
+
